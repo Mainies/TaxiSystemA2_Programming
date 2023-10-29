@@ -1,0 +1,4 @@
+R1, standard, 1.5
+R2, peak, 1.8
+R3, weekends, 2
+R4, holiday, 2.5

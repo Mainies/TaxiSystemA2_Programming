@@ -1,0 +1,7 @@
+S1, Internet, 1
+S2, Entertainment, 3
+S3, Snack, 2
+S4, Drink, 1
+P5, Starter, S1, S2
+P6, StarterMax, S1, S2, S3, S4
+P7, StarterPlus, S1, S2, S4

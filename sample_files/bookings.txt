@@ -1,0 +1,4 @@
+Louis, Melbourne, L2, 12.5, Clayton, 10.0, standard, S1, 4.2, 33.75, 3.375, 35.575
+Ella, Chadstone, L5, 18.4, peak, Snack, 4.2, 33.12, 3.312, 36.008
+George, L3, Brighton, 20.5, Chadstone, 16.5, standard, P5, 4.2, 55.5, 8.325, 54.575
+Kate, L1, Brighton, 60.0, holiday, , 4.2, 150, 30, 124.2
